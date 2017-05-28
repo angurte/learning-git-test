@@ -2,3 +2,4 @@ Arquivo 1 TXT.
 Alterei este arquivo no branch master.
 Alterado no branch novoBranch.
 * Linha 4 alterada na branch master.
+# Linha 4 alterada no branch2.
