@@ -1,2 +1,3 @@
 Arquivo 1 TXT.
 Alterei este arquivo no branch master.
+Alterado no branch novoBranch.
